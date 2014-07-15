@@ -1,5 +1,5 @@
 {
-  "name": "soap-https",
+  "name": "soap",
   "version": "0.4.7",
   "description": "A forked minimal node SOAP client with https support",
   "engines": {
